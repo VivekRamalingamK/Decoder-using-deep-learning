@@ -13,3 +13,5 @@ the codeword, the performance of the CNN and residual network inception model de
 are explained.
 
 This project is based on the implementation of the published paper given in the following link https://arxiv.org/abs/1701.07738.
+
+This project is guided by Dr.-Ing. Jakob Hoydis, Sebastian Dörner,Sebastian Cammerer, Prof. Stephan ten Brink from University of Stuttgart.
