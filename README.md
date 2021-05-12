@@ -15,3 +15,11 @@ are explained.
 This project is based on the implementation of the published paper given in the following link https://arxiv.org/abs/1701.07738.
 
 This project is guided by Dr.-Ing. Jakob Hoydis, Sebastian Dörner,Sebastian Cammerer, Prof. Stephan ten Brink from University of Stuttgart.
+
+In the Jupyter notebooks, only the construction and the hyperparameter tuning of the deep learning models part was done by me, the rest were provided by the above mentioned guides.
+
+References:
+
+[1] Gruber, Tobias & Cammerer, Sebastian & Hoydis, Jakob & Brink, Stephan. (2017). On Deep Learning-Based Channel Decoding. url: http://arxiv.org/abs/1701.07738
+
+[2] https://github.com/gruberto/DL-ChannelDecoding
